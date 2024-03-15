@@ -93,7 +93,8 @@ src/main/java/question1/**Calculator.java**
     - 60以上80未満： "Good!"
     - 40以上60未満： "Fair."
     - 40未満： "Poor..."
-    - 0未満または100を超える場合： "Invalid score."
+    - 0未満： "Invalid score."
+    - ※100より大きい値の考慮は不要
 
 **対象のファイル**
 
